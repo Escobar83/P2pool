@@ -1,0 +1,1 @@
+cd ~/p2pool-fc/litecoin_scrypt ; sudo python setup.py install
